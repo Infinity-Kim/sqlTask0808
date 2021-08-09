@@ -7,7 +7,7 @@
 
 ## Оглавление
 0. [Функция select_orders_by_item_name](#Задание-1)
-1. [Функция calculate_total_price_for_orders_group](#Задание-2)
+1. [Функция calculate_total_price_for_orders_group](#Задание-2) - [решение](calculate_total_price_for_orders_group.sql)
 1. [Все покупатели](#Задание-3)
 
 ## Задание 1
