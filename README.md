@@ -6,7 +6,7 @@
 #### [Заполнить данными](insertData.sql)
 
 ## Оглавление
-0. [Функция select_orders_by_item_name](#Задание-1)
+0. [Функция select_orders_by_item_name](#Задание-1) - [решение](select_orders_by_item_name.sql)
 1. [Функция calculate_total_price_for_orders_group](#Задание-2) - [решение](calculate_total_price_for_orders_group.sql)
 1. [Все покупатели](#Задание-3) - [решение #1 (лучшее)](all_buyers_one.sql), [решение #2](all_buyers_two.sql)
 
